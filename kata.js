@@ -1,5 +1,5 @@
-function kata() {
-    return true;
+function works() {
+  return true;
 }
 
-module.exports = kata;
+module.exports = { works };
