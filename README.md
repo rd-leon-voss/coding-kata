@@ -3,7 +3,7 @@
 ## Setup
 
 ```sh
-nm i
+nmp i
 ```
 
 ## Run the tests
