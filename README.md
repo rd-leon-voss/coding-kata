@@ -3,7 +3,7 @@
 ## Setup
 
 ```sh
-nmp i
+yarn
 ```
 
 ## Run the tests
@@ -11,13 +11,13 @@ nmp i
 ### Running it once
 
 ```sh
-npm test
+yarn run test
 ```
 
 ### Running it continously (watch)
 
 ```sh
-npm run test:watch
+yarn run test:watch
 ```
 
 ## Kata
