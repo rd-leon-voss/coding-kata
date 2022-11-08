@@ -6,6 +6,11 @@
 yarn
 ```
 
+## Running the script
+```sh
+node kata.js
+```
+
 ## Run the tests
 
 ### Running it once
