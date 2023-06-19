@@ -43,3 +43,74 @@ Write your solution in the provided `is_anagram` function. You can create additi
 Test your implementation using the given examples to ensure your function works as expected.
 
 Feel free to ask if you have any questions. Happy coding!
+
+## Test Cases
+Test Case 1:
+```python
+string1 = "listen"
+string2 = "silent"
+Expected Output: True
+```
+
+Test Case 2:
+```python
+string1 = "hello"
+string2 = "world"
+Expected Output: False
+```
+
+Test Case 3:
+```python
+string1 = "Dormitory"
+string2 = "dirty room"
+Expected Output: True
+```
+
+Test Case 4:
+```python
+string1 = "anagram"
+string2 = "nagaram"
+Expected Output: True
+```
+
+Test Case 5:
+```python
+string1 = "Python"
+string2 = "nohtyP"
+Expected Output: True
+```
+
+Test Case 6:
+```python
+string1 = "abcdef"
+string2 = "abcdefg"
+Expected Output: False
+```
+
+Test Case 7:
+```python
+string1 = "12345"
+string2 = "54321"
+Expected Output: True
+```
+
+Test Case 8:
+```python
+string1 = "racecar"
+string2 = "carrace"
+Expected Output: True
+```
+
+Test Case 9:
+```python
+string1 = ""
+string2 = ""
+Expected Output: True
+```
+
+Test Case 10:
+```python
+string1 = "openai"
+string2 = "aiopen"
+Expected Output: True
+```
