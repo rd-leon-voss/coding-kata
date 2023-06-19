@@ -24,9 +24,3 @@ yarn run test
 ```sh
 yarn run test:watch
 ```
-
-## Kata
-
-[Kata](https://codingdojo.org/kata/RomanNumerals/)
-
-[Roman numerals](http://www.novaroma.org/via_romana/numbers.html)
